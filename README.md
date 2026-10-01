@@ -28,9 +28,9 @@ The Smart Task Scheduler allows users to create tasks, assign priorities and dea
 - ArrayList
 - Object-Oriented Programming
 
-##Learning Outcomes
+## Learning Outcomes
 
-#This project demonstrates:
+# This project demonstrates:
 
 Java GUI development
 Event handling
@@ -41,7 +41,7 @@ Basic application data persistence
 Building a desktop application using Java Swing
 Future Improvements
 
-##Possible future enhancements include:
+## Possible future enhancements include:
 
 Task search and filtering
 Calendar-based deadlines
@@ -53,7 +53,7 @@ Database integration
 Export tasks to CSV
 Author
 
-##Varun N
+## Varun N
 
 B.Tech Information Technology
 
