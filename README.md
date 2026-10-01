@@ -32,28 +32,29 @@ The Smart Task Scheduler allows users to create tasks, assign priorities and dea
 
 ### This project demonstrates:
 
-Java GUI development
-Event handling
-Java collections
-File handling
-User input validation
-Basic application data persistence
-Building a desktop application using Java Swing
-Future Improvements
+- Java GUI development
+- Event handling
+- Java collections
+- File handling
+- User input validation
+- Basic application data persistence
+- Building a desktop application using Java Swing
+- Future Improvements
 
 ## Possible future enhancements include:
 
-Task search and filtering
-Calendar-based deadlines
-Notifications and reminders
-Sorting by deadline
-Dark mode
-Task categories
-Database integration
-Export tasks to CSV
-Author
+- Task search and filtering
+- Calendar-based deadlines
+- Notifications and reminders
+-Sorting by deadline
+- Dark mode
+- Task categories
+- Database integration
+- Export tasks to CSV
 
-## Varun N
+## Author
+
+### Varun Y
 
 B.Tech Information Technology
 
