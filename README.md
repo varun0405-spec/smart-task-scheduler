@@ -30,7 +30,7 @@ The Smart Task Scheduler allows users to create tasks, assign priorities and dea
 
 ## Learning Outcomes
 
-# This project demonstrates:
+### This project demonstrates:
 
 Java GUI development
 Event handling
